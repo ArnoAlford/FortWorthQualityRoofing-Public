@@ -1,0 +1,29 @@
+{
+  "policy": "Only explicitly approved brand imagery and reviewed screenshots of this public showcase; no customer or production-page media.",
+  "assets": [
+    {
+      "path": "public/brand/fwqr-logo.png",
+      "sha256": "e5164d2889037d9decc4e88debe5211f05ad7987f8c3847c7c221abe866f832a",
+      "origin": "Fort Worth Quality Roofing approved brand mark",
+      "approval": "Repository owner approved brand imagery for this public promotional repository on 2026-09-04.",
+      "purpose": "Identify the brand; no trademark reuse rights granted.",
+      "processing": "PNG re-encoding without source metadata."
+    },
+    {
+      "path": "public/screenshots/desktop.png",
+      "sha256": "fccf1c2138779bb833ada2836f42b0dba1d0f9b221e351e128f8f4a685fcbe85",
+      "origin": "This public showcase at a 1440 by 1000 desktop viewport",
+      "approval": "Promotional repository preview reviewed for public release; only approved branding and synthetic showcase content.",
+      "purpose": "README preview of the public implementation.",
+      "processing": "PNG re-encoding without source metadata."
+    },
+    {
+      "path": "public/screenshots/mobile.png",
+      "sha256": "b3a10fa2ca431de2d8eb738812251e1af61495b7144f0886ed7dde5cb13301c6",
+      "origin": "This public showcase at a 390 by 844 mobile viewport",
+      "approval": "Promotional repository preview reviewed for public release; only approved branding and synthetic showcase content.",
+      "purpose": "README preview of the public implementation.",
+      "processing": "PNG re-encoding without source metadata."
+    }
+  ]
+}

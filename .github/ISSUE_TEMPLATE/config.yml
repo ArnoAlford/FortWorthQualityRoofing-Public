@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Roofing service requests
+    url: https://fortworthqualityroofing.com/
+    about: Use the official website for roofing service.
+  - name: Private security report
+    url: https://github.com/ArnoAlford/FortWorthQualityRoofing-Public/security/advisories/new
+    about: Never put sensitive findings in a public issue.

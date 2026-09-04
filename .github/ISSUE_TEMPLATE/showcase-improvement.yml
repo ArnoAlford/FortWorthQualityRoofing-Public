@@ -1,0 +1,10 @@
+name: Showcase improvement
+description: Suggest a presentation-only improvement. Do not include private data.
+body:
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What could be clearer?
+      description: Public design or documentation feedback only.
+    validations:
+      required: true
