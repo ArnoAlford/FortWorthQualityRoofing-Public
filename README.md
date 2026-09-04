@@ -1,55 +1,49 @@
 <p align="center"><a href="https://fortworthqualityroofing.com/"><img src="public/brand/fwqr-logo.png" alt="Fort Worth Quality Roofing" width="210"></a></p>
 
-# A clearer next step for your roof.
+# Fort Worth Quality Roofing
 
-Fort Worth Quality Roofing helps Fort Worth homeowners explore roof inspection, repair, replacement, and storm-damage services.
+## Know what your roof needs before you commit to the work.
 
-**[Explore the official website →](https://fortworthqualityroofing.com/)**
+A ceiling stain after rain. Shingles missing after a storm. A roof that is starting to show its age. You do not have to diagnose the problem yourself.
 
-## A focused public showcase
+Fort Worth Quality Roofing helps Fort Worth homeowners find a clear starting point for residential roof inspections, repairs, replacements, and storm-damage concerns. Visit the website to explore your options and request a roof assessment.
 
-This is a small, static reference implementation inspired by the public-repository treatment used for [ArcVelocity](https://github.com/ArnoAlford/ArcVelocity-Page-Demo-Public) and [HailKing](https://github.com/ArnoAlford/HailKing-Public).
+**[Visit Fort Worth Quality Roofing →](https://fortworthqualityroofing.com/)**
 
-It includes a branded homepage, a synthetic residential example, and a design-system reference. It is **not the production website source**, does not receive service requests, and has no production integrations.
+## Find the service that fits your home
 
-[![Desktop preview of this public showcase](public/screenshots/desktop.png)](https://fortworthqualityroofing.com/)
+- **[Roof inspections](https://fortworthqualityroofing.com/roof-inspection-fort-worth-tx/)** — Start with an assessment when you are unsure what needs attention.
+- **[Roof repair](https://fortworthqualityroofing.com/roof-repair-fort-worth-tx/)** — Explore help for leaks, damaged shingles, and other roofing problems.
+- **[Roof replacement](https://fortworthqualityroofing.com/roof-replacement-fort-worth-tx/)** — Learn what to consider when planning a replacement for an aging or damaged roof.
+- **[Storm damage](https://fortworthqualityroofing.com/storm-damage-roof-repair-fort-worth-tx/)** — Find your next step after hail or high wind.
 
-<details><summary>Mobile preview</summary>
-<img src="public/screenshots/mobile.png" alt="Mobile preview of this public showcase" width="320">
+[Browse all residential roofing services →](https://fortworthqualityroofing.com/residential-roofing-fort-worth-tx/)
+
+## A website built around your roofing questions
+
+Start with what you have noticed, explore the relevant service information, and learn which questions to ask before choosing the work. The website brings residential roofing options together so you can prepare for a more useful conversation about your home.
+
+For an actual roofing concern, **[request a roof assessment through the official website](https://fortworthqualityroofing.com/contact/)**.
+
+## Get to know the brand
+
+[![Fort Worth Quality Roofing public brand showcase on desktop](public/screenshots/desktop.png)](https://fortworthqualityroofing.com/)
+
+<details>
+<summary>View the mobile brand preview</summary>
+
+<img src="public/screenshots/mobile.png" alt="Fort Worth Quality Roofing public brand showcase on mobile" width="320">
+
 </details>
 
-## Explore
-- `/` — promotional overview and link to the official website
-- `/examples/residential/` — explicitly fictional service-navigation scenarios
-- `/design-system/` — public color, typography, and interaction foundations
+*These previews show the public brand showcase. Visit the official website for current service information and assessment requests.*
 
-No customer reviews, property imagery, credentials, environment files, analytics, lead forms, or production history are included. See [PUBLIC-SCOPE.md](PUBLIC-SCOPE.md).
+**[Explore fortworthqualityroofing.com →](https://fortworthqualityroofing.com/)**
 
-## Local development
+---
 
-Use Node.js 24 LTS and npm. No environment setup or credentials are required.
+### About this repository
 
-```sh
-npm ci
-npm run dev
-```
+This public promotional showcase includes approved brand imagery and illustrative residential examples. It is not the production website source and does not collect service requests.
 
-## Verification
-
-```sh
-npm run safety
-npm run safety -- --staged
-npm run lint
-npm run build
-npm audit --audit-level=high
-```
-
-The index check expects the intended files to have been staged with Git. The build creates a static export in `out/`. Build output is not committed. This repository has no deployment workflow, production domain binding, or automated production sync.
-
-Media is integrity-locked in [the asset manifest](public/asset-manifest.json). The showcase is marked noindex to distinguish it from the official site.
-
-## Security and ownership
-
-Report sensitive findings privately using [SECURITY.md](SECURITY.md), not public issues. Public visibility does not grant a reuse license: see [LICENSE.md](LICENSE.md) and [TRADEMARKS.md](TRADEMARKS.md).
-
-Built by [ArcVelocity](https://arcvelocity.com/).
+For technical information, see [Contributing](CONTRIBUTING.md) and [Architecture](docs/architecture.md). Publication boundaries, security reporting, and ownership are covered in [Public Scope](PUBLIC-SCOPE.md), [Security](SECURITY.md), [License](LICENSE.md), and [Trademarks](TRADEMARKS.md).
